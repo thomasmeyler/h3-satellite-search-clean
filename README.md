@@ -1,5 +1,8 @@
 # H3 Satellite Search
 
+[![GitHub](https://img.shields.io/github/license/thomasmeyler/h3-satellite-search-clean)](https://github.com/thomasmeyler/h3-satellite-search-clean/blob/main/LICENSE)
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
+
 A standalone solution for satellite imagery analysis using Uber's H3 geospatial indexing system at resolution 6. This project enables:
 
 1. Tiling regions of interest (Tianjin, Dalian, Shanghai, Qingdao ports) using H3 resolution 6
